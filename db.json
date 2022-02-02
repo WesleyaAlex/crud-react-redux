@@ -1,0 +1,18 @@
+{
+  "user": [
+    {
+      "name": "Tommy Alterado",
+      "address": "Japan",
+      "email": "tom@gmail.com",
+      "contact": "2464243",
+      "id": 2
+    },
+    {
+      "name": "wesley",
+      "email": "wesley@gmail.com",
+      "contact": "123",
+      "address": "Rua Antônio Aranha, 2990",
+      "id": 3
+    }
+  ]
+}

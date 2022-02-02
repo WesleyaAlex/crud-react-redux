@@ -1,0 +1,38 @@
+.error {
+    color: red;
+    text-align: center;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.item-form {
+    width: 500px;
+    margin-top: 10px !important;
+}
+
+.div-buttons {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.buttons {
+    width: 49%;
+}
+
+@media (max-width: 530px) {
+    .item-form {
+        width: 370px;
+    }
+}
+
+@media (max-width: 400px) {
+    .item-form {
+        width: 100%;
+    }
+}
